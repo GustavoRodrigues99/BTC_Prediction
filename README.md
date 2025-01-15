@@ -1,5 +1,5 @@
 # BTC Prediction
-
+![Modelo](Image/Model_example.png)
 
 ## Conteúdo
 - [Descrição do Projeto](##Descrição-do-Projeto)
@@ -46,12 +46,12 @@ pip install yfinance numpy pandas matplotlib scikit-learn tensorflow
 
 1. Clones este repositório:
 ```bash
-git clone (link)
+git clone https://github.com/GustavoRodrigues99/BTC_Prediction
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd (projeto)
+cd BTC_Prediction
 ```
 
 3. Execute o script:
