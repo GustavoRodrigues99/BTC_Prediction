@@ -1,5 +1,5 @@
 # BTC Prediction
-![Modelo](Image/Model_example.png)
+![Modelo](https://github.com/GustavoRodrigues99/BTC_Prediction/blob/main/Image/Model%20_example.png?raw=true)
 
 ## Conteúdo
 - [Descrição do Projeto](##Descrição-do-Projeto)
