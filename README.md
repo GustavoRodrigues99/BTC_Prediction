@@ -1,4 +1,4 @@
-# BTC Prediction
+# Predição BitCoin
 ![Modelo](https://github.com/GustavoRodrigues99/BTC_Prediction/blob/main/Image/Model%20_example.png?raw=true)
 
 ## Conteúdo
