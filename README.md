@@ -56,9 +56,10 @@ cd BTC_Prediction
 
 3. Execute o script:
 ```bash
-python (arquivo)
+python BTC price pediction.ipynb
 ```
 
 ## Resultados
 - Gráficos interativos exibem os preços de fechamento e previsões futuras
+![Resultado](https://github.com/GustavoRodrigues99/BTC_Prediction/blob/main/Image/Result_example.png)
 - O modelo treinado será salvo no arquivo model.keras
